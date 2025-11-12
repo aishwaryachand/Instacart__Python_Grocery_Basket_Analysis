@@ -1,6 +1,10 @@
 # Instacart Grocery Basket Analysis - Data Insights for Targeted Marketing
 This repository contains the complete analysis for the Instacart Grocery Basket project, aimed at deriving actionable insights from the online grocery shopping patterns of Instacart customers. Through a meticulous exploration of Instacart’s extensive datasets, this project seeks to empower the company with data-driven strategies for customer segmentation and targeted marketing.
 
+
+![Banner](https://github.com/aishwaryachand/Instacart__Python_Grocery_Basket_Analysis/blob/main/photo.png)
+
+
 ## Key Aspects of the Project:
 * Customer Behavior Analysis: Understanding diverse customer profiles and their purchasing behaviors to tailor marketing strategies effectively.
 * Sales Pattern Insights: Identifying peak shopping times and customer spending trends to optimize advertising schedules and content.
